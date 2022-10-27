@@ -10,6 +10,8 @@
 		D23868A92907C35800E07D03 /* WeSplit.swift in Sources */ = {isa = PBXBuildFile; fileRef = D23868A82907C35800E07D03 /* WeSplit.swift */; };
 		D23868E12908BB9800E07D03 /* GuessTheFlag.swift in Sources */ = {isa = PBXBuildFile; fileRef = D23868E02908BB9800E07D03 /* GuessTheFlag.swift */; };
 		D23868E62908F96000E07D03 /* ViewsAndModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = D23868E52908F96000E07D03 /* ViewsAndModifiers.swift */; };
+		D2C57F06290A2D5D006C297E /* BetterRest.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2C57F05290A2D5D006C297E /* BetterRest.swift */; };
+		D2C57F08290A2DCD006C297E /* SleepCalculator.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = D2C57F07290A2DCD006C297E /* SleepCalculator.mlpackage */; };
 		D2D183442907BE1D00588A4B /* NavigationView_.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D183372907BE1C00588A4B /* NavigationView_.swift */; };
 		D2D183452907BE1D00588A4B /* ModifyProgramStatus_.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D183382907BE1C00588A4B /* ModifyProgramStatus_.swift */; };
 		D2D183462907BE1D00588A4B /* GuessTheNationalFlag_.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D183392907BE1C00588A4B /* GuessTheNationalFlag_.swift */; };
@@ -29,6 +31,8 @@
 		D23868E02908BB9800E07D03 /* GuessTheFlag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlag.swift; sourceTree = "<group>"; };
 		D23868E52908F96000E07D03 /* ViewsAndModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewsAndModifiers.swift; sourceTree = "<group>"; };
 		D259B05A2902A51B0007E2F1 /* ApplicationSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ApplicationSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2C57F05290A2D5D006C297E /* BetterRest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRest.swift; sourceTree = "<group>"; };
+		D2C57F07290A2DCD006C297E /* SleepCalculator.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = SleepCalculator.mlpackage; sourceTree = "<group>"; };
 		D2D183372907BE1C00588A4B /* NavigationView_.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationView_.swift; sourceTree = "<group>"; };
 		D2D183382907BE1C00588A4B /* ModifyProgramStatus_.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModifyProgramStatus_.swift; sourceTree = "<group>"; };
 		D2D183392907BE1C00588A4B /* GuessTheNationalFlag_.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GuessTheNationalFlag_.swift; sourceTree = "<group>"; };
@@ -94,14 +98,24 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		D2C57F04290A2D32006C297E /* examFour */ = {
+			isa = PBXGroup;
+			children = (
+				D2C57F05290A2D5D006C297E /* BetterRest.swift */,
+			);
+			path = examFour;
+			sourceTree = "<group>";
+		};
 		D2D183362907BE1C00588A4B /* ApplicationSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				D2C57F07290A2DCD006C297E /* SleepCalculator.mlpackage */,
 				D23868A72907C1D600E07D03 /* examOne */,
 				D23868DF2907DA0500E07D03 /* examTwo */,
 				D23868E42908F94B00E07D03 /* examThree */,
-				D2D183392907BE1C00588A4B /* GuessTheNationalFlag_.swift */,
+				D2C57F04290A2D32006C297E /* examFour */,
 				D2D183382907BE1C00588A4B /* ModifyProgramStatus_.swift */,
+				D2D183392907BE1C00588A4B /* GuessTheNationalFlag_.swift */,
 				D2D183372907BE1C00588A4B /* NavigationView_.swift */,
 				D2D1833A2907BE1C00588A4B /* ApplicationSwiftUIApp.swift */,
 				D2D1833B2907BE1C00588A4B /* TextFieldView_.swift */,
@@ -198,7 +212,9 @@
 				D2D183462907BE1D00588A4B /* GuessTheNationalFlag_.swift in Sources */,
 				D2D183452907BE1D00588A4B /* ModifyProgramStatus_.swift in Sources */,
 				D23868E12908BB9800E07D03 /* GuessTheFlag.swift in Sources */,
+				D2C57F08290A2DCD006C297E /* SleepCalculator.mlpackage in Sources */,
 				D23868E62908F96000E07D03 /* ViewsAndModifiers.swift in Sources */,
+				D2C57F06290A2D5D006C297E /* BetterRest.swift in Sources */,
 				D2D183482907BE1D00588A4B /* TextFieldView_.swift in Sources */,
 				D2D183472907BE1D00588A4B /* ApplicationSwiftUIApp.swift in Sources */,
 				D23868A92907C35800E07D03 /* WeSplit.swift in Sources */,
