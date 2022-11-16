@@ -22,9 +22,9 @@ struct ExpensesView: View {
                             VStack(alignment: .leading){
                                 Text(item.name)
                                 Text(item.type)
-                                Spacer()
-                                Text(item.amount.formatted())
                             }
+                            Spacer()
+                            Text(item.amount.formatted())
                         }
                     }
                     .onDelete(perform: removeItems)
