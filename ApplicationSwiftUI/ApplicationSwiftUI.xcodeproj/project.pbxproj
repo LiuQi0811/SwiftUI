@@ -10,8 +10,14 @@
 		D23868A92907C35800E07D03 /* WeSplit.swift in Sources */ = {isa = PBXBuildFile; fileRef = D23868A82907C35800E07D03 /* WeSplit.swift */; };
 		D23868E12908BB9800E07D03 /* GuessTheFlag.swift in Sources */ = {isa = PBXBuildFile; fileRef = D23868E02908BB9800E07D03 /* GuessTheFlag.swift */; };
 		D23868E62908F96000E07D03 /* ViewsAndModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = D23868E52908F96000E07D03 /* ViewsAndModifiers.swift */; };
+		D2B0B6F22921CD96007BC63E /* ExpensesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B0B6F12921CD96007BC63E /* ExpensesView.swift */; };
+		D2B0B6F42921CE2F007BC63E /* ExpenseItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B0B6F32921CE2F007BC63E /* ExpenseItem.swift */; };
+		D2B0B6F62921D300007BC63E /* Expenses.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B0B6F52921D300007BC63E /* Expenses.swift */; };
+		D2B0B6F8292341F7007BC63E /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B0B6F7292341F7007BC63E /* AddView.swift */; };
 		D2C57F06290A2D5D006C297E /* BetterRest.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2C57F05290A2D5D006C297E /* BetterRest.swift */; };
 		D2C57F08290A2DCD006C297E /* SleepCalculator.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = D2C57F07290A2DCD006C297E /* SleepCalculator.mlpackage */; };
+		D2C57F0F290A83A0006C297E /* WordScramble.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2C57F0E290A83A0006C297E /* WordScramble.swift */; };
+		D2C57F11290A843D006C297E /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = D2C57F10290A843D006C297E /* start.txt */; };
 		D2D183442907BE1D00588A4B /* NavigationView_.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D183372907BE1C00588A4B /* NavigationView_.swift */; };
 		D2D183452907BE1D00588A4B /* ModifyProgramStatus_.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D183382907BE1C00588A4B /* ModifyProgramStatus_.swift */; };
 		D2D183462907BE1D00588A4B /* GuessTheNationalFlag_.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D183392907BE1C00588A4B /* GuessTheNationalFlag_.swift */; };
@@ -24,6 +30,7 @@
 		D2D1834D2907BE1D00588A4B /* FormView_.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D183412907BE1C00588A4B /* FormView_.swift */; };
 		D2D1834E2907BE1D00588A4B /* CreateLoopView_.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D183422907BE1C00588A4B /* CreateLoopView_.swift */; };
 		D2D1834F2907BE1D00588A4B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D183432907BE1C00588A4B /* ContentView.swift */; };
+		D2D187BA291CFAD900D0DE6A /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D187B9291CFAD900D0DE6A /* AnimationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,8 +38,14 @@
 		D23868E02908BB9800E07D03 /* GuessTheFlag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlag.swift; sourceTree = "<group>"; };
 		D23868E52908F96000E07D03 /* ViewsAndModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewsAndModifiers.swift; sourceTree = "<group>"; };
 		D259B05A2902A51B0007E2F1 /* ApplicationSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ApplicationSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2B0B6F12921CD96007BC63E /* ExpensesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpensesView.swift; sourceTree = "<group>"; };
+		D2B0B6F32921CE2F007BC63E /* ExpenseItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseItem.swift; sourceTree = "<group>"; };
+		D2B0B6F52921D300007BC63E /* Expenses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Expenses.swift; sourceTree = "<group>"; };
+		D2B0B6F7292341F7007BC63E /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		D2C57F05290A2D5D006C297E /* BetterRest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRest.swift; sourceTree = "<group>"; };
 		D2C57F07290A2DCD006C297E /* SleepCalculator.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = SleepCalculator.mlpackage; sourceTree = "<group>"; };
+		D2C57F0E290A83A0006C297E /* WordScramble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordScramble.swift; sourceTree = "<group>"; };
+		D2C57F10290A843D006C297E /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		D2D183372907BE1C00588A4B /* NavigationView_.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationView_.swift; sourceTree = "<group>"; };
 		D2D183382907BE1C00588A4B /* ModifyProgramStatus_.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModifyProgramStatus_.swift; sourceTree = "<group>"; };
 		D2D183392907BE1C00588A4B /* GuessTheNationalFlag_.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GuessTheNationalFlag_.swift; sourceTree = "<group>"; };
@@ -45,6 +58,7 @@
 		D2D183412907BE1C00588A4B /* FormView_.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FormView_.swift; sourceTree = "<group>"; };
 		D2D183422907BE1C00588A4B /* CreateLoopView_.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateLoopView_.swift; sourceTree = "<group>"; };
 		D2D183432907BE1C00588A4B /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D2D187B9291CFAD900D0DE6A /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +112,27 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		D2B0B6EE29210111007BC63E /* examEight */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = examEight;
+			sourceTree = "<group>";
+		};
+		D2B0B6EF2921013D007BC63E /* examNine */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = examNine;
+			sourceTree = "<group>";
+		};
+		D2B0B6F029210157007BC63E /* examTen */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = examTen;
+			sourceTree = "<group>";
+		};
 		D2C57F04290A2D32006C297E /* examFour */ = {
 			isa = PBXGroup;
 			children = (
@@ -106,17 +141,51 @@
 			path = examFour;
 			sourceTree = "<group>";
 		};
+		D2C57F09290A3ADD006C297E /* examFive */ = {
+			isa = PBXGroup;
+			children = (
+				D2C57F0E290A83A0006C297E /* WordScramble.swift */,
+			);
+			path = examFive;
+			sourceTree = "<group>";
+		};
+		D2C57F12290A847B006C297E /* examSix */ = {
+			isa = PBXGroup;
+			children = (
+				D2D187B9291CFAD900D0DE6A /* AnimationView.swift */,
+			);
+			path = examSix;
+			sourceTree = "<group>";
+		};
+		D2C57F13290A8488006C297E /* examSeven */ = {
+			isa = PBXGroup;
+			children = (
+				D2B0B6F12921CD96007BC63E /* ExpensesView.swift */,
+				D2B0B6F32921CE2F007BC63E /* ExpenseItem.swift */,
+				D2B0B6F52921D300007BC63E /* Expenses.swift */,
+				D2B0B6F7292341F7007BC63E /* AddView.swift */,
+			);
+			path = examSeven;
+			sourceTree = "<group>";
+		};
 		D2D183362907BE1C00588A4B /* ApplicationSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				D2B0B6F029210157007BC63E /* examTen */,
+				D2B0B6EF2921013D007BC63E /* examNine */,
+				D2B0B6EE29210111007BC63E /* examEight */,
+				D2C57F10290A843D006C297E /* start.txt */,
 				D2C57F07290A2DCD006C297E /* SleepCalculator.mlpackage */,
 				D23868A72907C1D600E07D03 /* examOne */,
 				D23868DF2907DA0500E07D03 /* examTwo */,
 				D23868E42908F94B00E07D03 /* examThree */,
 				D2C57F04290A2D32006C297E /* examFour */,
-				D2D183382907BE1C00588A4B /* ModifyProgramStatus_.swift */,
-				D2D183392907BE1C00588A4B /* GuessTheNationalFlag_.swift */,
+				D2C57F09290A3ADD006C297E /* examFive */,
+				D2C57F12290A847B006C297E /* examSix */,
+				D2C57F13290A8488006C297E /* examSeven */,
 				D2D183372907BE1C00588A4B /* NavigationView_.swift */,
+				D2D183392907BE1C00588A4B /* GuessTheNationalFlag_.swift */,
+				D2D183382907BE1C00588A4B /* ModifyProgramStatus_.swift */,
 				D2D1833A2907BE1C00588A4B /* ApplicationSwiftUIApp.swift */,
 				D2D1833B2907BE1C00588A4B /* TextFieldView_.swift */,
 				D2D183402907BE1C00588A4B /* DisplayWarningMessage_.swift */,
@@ -197,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D2D1834B2907BE1D00588A4B /* Preview Assets.xcassets in Resources */,
+				D2C57F11290A843D006C297E /* start.txt in Resources */,
 				D2D183492907BE1D00588A4B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -208,18 +278,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2B0B6F62921D300007BC63E /* Expenses.swift in Sources */,
 				D2D1834D2907BE1D00588A4B /* FormView_.swift in Sources */,
 				D2D183462907BE1D00588A4B /* GuessTheNationalFlag_.swift in Sources */,
+				D2C57F0F290A83A0006C297E /* WordScramble.swift in Sources */,
 				D2D183452907BE1D00588A4B /* ModifyProgramStatus_.swift in Sources */,
 				D23868E12908BB9800E07D03 /* GuessTheFlag.swift in Sources */,
 				D2C57F08290A2DCD006C297E /* SleepCalculator.mlpackage in Sources */,
 				D23868E62908F96000E07D03 /* ViewsAndModifiers.swift in Sources */,
+				D2B0B6F22921CD96007BC63E /* ExpensesView.swift in Sources */,
+				D2D187BA291CFAD900D0DE6A /* AnimationView.swift in Sources */,
 				D2C57F06290A2D5D006C297E /* BetterRest.swift in Sources */,
 				D2D183482907BE1D00588A4B /* TextFieldView_.swift in Sources */,
 				D2D183472907BE1D00588A4B /* ApplicationSwiftUIApp.swift in Sources */,
 				D23868A92907C35800E07D03 /* WeSplit.swift in Sources */,
+				D2B0B6F8292341F7007BC63E /* AddView.swift in Sources */,
 				D2D1834A2907BE1D00588A4B /* PickerView_.swift in Sources */,
 				D2D1834F2907BE1D00588A4B /* ContentView.swift in Sources */,
+				D2B0B6F42921CE2F007BC63E /* ExpenseItem.swift in Sources */,
 				D2D1834E2907BE1D00588A4B /* CreateLoopView_.swift in Sources */,
 				D2D1834C2907BE1D00588A4B /* DisplayWarningMessage_.swift in Sources */,
 				D2D183442907BE1D00588A4B /* NavigationView_.swift in Sources */,
